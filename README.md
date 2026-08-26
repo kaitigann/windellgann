@@ -1,2 +1,2 @@
-# windellgann
-Personal website for Windell Gann
+# windellgann.com
+Personal website for Windell Gann on which I post Bible Study Resources.
